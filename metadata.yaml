@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34034
     wikipedia: http://en.wikipedia.org/wiki/Cordwainer_Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39356#The-Political-Doctrines-of-Sun-Yat-sen--An-Exposition-of-the-San-MinChu-I
 gutenberg_issued: '2012-04-02'
 gutenberg_type: Text
 identifiers:
