@@ -1,0 +1,30 @@
+_repo: The-Political-Doctrines-of-Sun-Yat-sen--An-Exposition-of-the-San-MinChu-I_39356
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Linebarger, Paul Myron Anthony
+    aliases:
+    - Smith, Cordwainer
+    - Linebarger, Paul M. A.
+    birthdate: 1913
+    deathdate: 1966
+    gutenberg_agent_id: '34034'
+    url: http://www.gutenberg.org/2009/agents/34034
+    wikipedia: http://en.wikipedia.org/wiki/Cordwainer_Smith
+description: ''
+gutenberg_issued: '2012-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39356'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Sun, Yat-sen, 1866-1925. San min zhu yi'
+title: 'The Political Doctrines of Sun Yat-sen: An Exposition of the San Min Chu I'
+url: http://www.gutenberg.org/ebooks/39356
